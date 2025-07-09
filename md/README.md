@@ -42,7 +42,7 @@ Aşağıda, 1 Nisan – 30 Nisan 2024 tarihleri arasında akıllı kartla yapıl
 
 ### 📈 Biniş Sayısı Zaman Serisi Görselleştirmesi
 
-![Biniş Zaman Serisi Grafiği](Nisan 2024 Günlük Toplu Kullanımı.png)
+![Biniş Zaman Serisi Grafiği](md/gunluk_binis.png)
 
 Bu grafik, ay boyunca günlük biniş sayılarını göstermektedir. Özellikle hafta içi günlerinde biniş sayılarının daha yüksek, hafta sonları ve bayram tatili dönemlerinde (örneğin 10–12 Nisan) belirgin şekilde düştüğü görülmektedir.
 
@@ -52,7 +52,7 @@ Bu grafik, ay boyunca günlük biniş sayılarını göstermektedir. Özellikle 
 
 Toplu taşıma ağında aktarma yapılan noktaların yoğunluğu aşağıdaki ısı haritası ile görselleştirilmiştir:
 
-![Transfer Isı Haritası](md/Transfer Yoğunluğu.png)
+![Transfer Yoğunluğu Isı Haritası](md/transfer_yogunlugu.png)
 
 ### Açıklama:
 
