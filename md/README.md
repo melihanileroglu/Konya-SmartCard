@@ -52,7 +52,7 @@ Bu grafik, ay boyunca günlük biniş sayılarını göstermektedir. Özellikle 
 
 Toplu taşıma ağında aktarma yapılan noktaların yoğunluğu aşağıdaki ısı haritası ile görselleştirilmiştir:
 
-![Transfer Isı Haritası](Nisan 2024 Günlük Toplu Kullanımı.png)
+![Transfer Isı Haritası](md/Transfer Yoğunluğu.png)
 
 ### Açıklama:
 
