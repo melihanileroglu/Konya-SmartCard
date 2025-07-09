@@ -78,16 +78,4 @@ amacıyla hazırlanmıştır. Planlamacılar, karar vericiler ve ulaşım mühen
 ## 🛠️ Kullanılan Araçlar
 
 - Python (Pandas, Matplotlib, Folium)
-- QGIS / Leaflet.js tabanlı harita görselleştirme
-- Excel ile ön işleme
 
----
-
-## 📬 İletişim
-
-Bu proje ile ilgili öneri veya sorularınız için lütfen iletişime geçiniz:
-
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com)
-
----
