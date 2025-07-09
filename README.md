@@ -6,13 +6,15 @@ Bu proje, Konya iline ait toplu taşıma sisteminde kullanılan **akıllı kart*
 
 Aşağıda, 1 Nisan – 30 Nisan 2024 tarihleri arasında akıllı kartla yapılan binişlerin günlük sayıları yer almaktadır:
 
-
-
 ### 📈 Biniş Sayısı Zaman Serisi Görselleştirmesi
 
 ![Biniş Zaman Serisi Grafiği](Günlük_binis.png)
 
-Bu grafik, ay boyunca günlük biniş sayılarını göstermektedir. Özellikle hafta içi günlerinde biniş sayılarının daha yüksek, hafta sonları ve bayram tatili dönemlerinde (örneğin 10–12 Nisan) belirgin şekilde düştüğü görülmektedir.
+Bu grafik, ay boyunca günlük biniş sayılarını göstermektedir. Özellikle hafta içi günlerinde biniş sayılarının daha yüksek, hafta sonları ve bayram tatili dönemlerinde (örneğin **10–12 Nisan**) belirgin şekilde düştüğü görülmektedir.
+
+> 📉 **Dikkat Çeken Düşüş:**
+>
+> 2024 yılı Ramazan Bayramı tatili 10–12 Nisan tarihleri arasına denk gelmiştir. Bu dönemde okulların kapalı olması, kamu kurumlarının tatil olması ve birçok kişinin şehir dışına çıkması gibi nedenlerle toplu taşıma kullanımında gözle görülür bir düşüş yaşanmıştır. Bayram sonrası hafta içi rutinine dönüldüğünde biniş sayılarında tekrar artış gözlenmiştir.
 
 ---
 
@@ -46,4 +48,3 @@ amacıyla hazırlanmıştır. Planlamacılar, karar vericiler ve ulaşım mühen
 ## 🛠️ Kullanılan Araçlar
 
 - Python (Pandas, Matplotlib, Folium)
-
